@@ -4,3 +4,4 @@
 4) сделать ci/cd через registry своего сервера ( ~16 часов ci/cd работает, но registry так и  не поддался :(возможно для исправления необходимо создание поддомена)
 ![image](https://github.com/user-attachments/assets/400e0bd0-cee0-43c1-a77d-efeb68072b03)
 5) работа через registry from ya.ru and docker registry
+6) попробовать ранер shell
